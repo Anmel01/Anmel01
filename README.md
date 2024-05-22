@@ -1,16 +1,12 @@
-## Hi there 👋
+## Boas vindas ao meu perfil
 
-<!--
-**Anmel01/Anmel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ana Mel
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estudo em escola pública
+- 🌱 Faço caminhada todo dia
+- 👯 Adoro Coca-cola
+- 🤔 Adoro sorvete,salgados,bolos recheados
+- 💬 Sou cardiaca
+- 📫 Não como salada
+- 😄 Tenho alergia a querosene e pó
+- ⚡ Tenho três gatas e uma cachorra
